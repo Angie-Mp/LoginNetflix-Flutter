@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "8136b5632d6b17227498eaf625b121d6"
+build_time: [1668301123, 11155000]
+inputs:
+  "/Users/mac/Documents/Certus/unidad2/Sesion4-Login/macos/Runner/MainFlutterWindow.swift": [1668016569, 0]
+  "/Users/mac/Documents/Certus/unidad2/Sesion4-Login/macos/Runner/AppDelegate.swift": [1668016569, 0]
+  "/Users/mac/Documents/Certus/unidad2/Sesion4-Login/macos/Flutter/GeneratedPluginRegistrant.swift": [1668301056, 538082195]
